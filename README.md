@@ -4,6 +4,5 @@
 * [蒜苗回锅肉](https://github.com/gitipanda/Towards-chief-cook/blob/main/%E5%B7%9D%E8%8F%9C/%E8%92%9C%E8%8B%97%E5%9B%9E%E9%94%85%E8%82%89.md)
 
 
-* I've been Hong Kong for five years and I really enjoy the hiking, beach sunshine and food there.
 ### [精品中国菜](https://github.com/gitipanda/Towards-chief-cook/tree/main/%E7%B2%BE%E5%93%81%E4%B8%AD%E5%9B%BD%E8%8F%9C)
 * [重庆鸡公煲](https://github.com/gitipanda/Towards-chief-cook/blob/main/%E7%B2%BE%E5%93%81%E4%B8%AD%E5%9B%BD%E8%8F%9C/%E9%87%8D%E5%BA%86%E9%B8%A1%E5%85%AC%E7%85%B2.md)
