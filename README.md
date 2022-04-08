@@ -1,5 +1,5 @@
 # Towards-chief-cook
-* I was born in Dujiangyan(Chengdu), Sichuan province in China. I really love and miss the sichuan cuisines, especially those with home-made styles. Both of my grandma and mom are chief cook, and I wish one day I can also cook as well as they do. I'm also interested in other healthy and beginner friendly cuisines. This will repository will record my recipe on my way. 
+* I was born in Dujiangyan(Chengdu), Sichuan province in China. I really love and miss the sichuan cuisines, especially those with home-made styles. Both of my grandma and mom are chief cook, and I wish one day I can also cook as well as they do. I'm also interested in other healthy and beginner friendly cuisines. This will repository will record my personal recipes. 
 * 
 ### [川菜](https://github.com/gitipanda/Towards-chief-cook/tree/main/%E5%B7%9D%E8%8F%9C)
 * [蒜苗回锅肉](https://github.com/gitipanda/Towards-chief-cook/blob/main/%E5%B7%9D%E8%8F%9C/%E8%92%9C%E8%8B%97%E5%9B%9E%E9%94%85%E8%82%89.md)
