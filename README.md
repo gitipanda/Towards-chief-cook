@@ -8,3 +8,7 @@
 ### [精品中国菜](https://github.com/gitipanda/Towards-chief-cook/tree/main/%E7%B2%BE%E5%93%81%E4%B8%AD%E5%9B%BD%E8%8F%9C)
 * [重庆鸡公煲](https://github.com/gitipanda/Towards-chief-cook/blob/main/%E7%B2%BE%E5%93%81%E4%B8%AD%E5%9B%BD%E8%8F%9C/%E9%87%8D%E5%BA%86%E9%B8%A1%E5%85%AC%E7%85%B2.md)
 * [三鲜丝瓜汤](https://github.com/gitipanda/Towards-chief-cook/blob/main/%E7%B2%BE%E5%93%81%E4%B8%AD%E5%9B%BD%E8%8F%9C/%E4%B8%89%E9%B2%9C%E4%B8%9D%E7%93%9C%E6%B1%A4.md)
+
+
+### [健康的な食事](https://github.com/gitipanda/Towards-chief-cook/tree/main/%E5%81%A5%E5%BA%B7%E7%9A%84%E3%81%AA%E9%A3%9F%E4%BA%8B)
+* [葱油花卷](https://github.com/gitipanda/Towards-chief-cook/blob/main/%E5%81%A5%E5%BA%B7%E7%9A%84%E3%81%AA%E9%A3%9F%E4%BA%8B/%E8%91%B1%E6%B2%B9%E8%8A%B1%E5%8D%B7.md)
